@@ -5,7 +5,7 @@ This repository contains datasets and python code (.ipynb Jupyter notebooks) to 
 # Citing
 This work has been published in Soft Computing. You can cite it in your publication:
 
-    @ARTICLE{8768370,
+    @ARTICLE{ayanXXX,
     author={E. {Ayan} and S. {Eken}},
     journal={Soft Computing},
     title={Detection of Price Bubbles in Istanbul Housing Market using LSTM Autoencoders: A District-based Approach},
@@ -13,7 +13,7 @@ This work has been published in Soft Computing. You can cite it in your publicat
     volume={25},
     number={},
     pages={1-25},
-    keywords={Deep learning · Housing bubble · Housing market · Housing pricing · LSTM autoencoder · Price bubble},
+    keywords={Deep learning, Housing bubble, Housing market, Housing pricing, LSTM autoencoder, Price bubble},
     doi={},
     ISSN={},
     month={},}
